@@ -151,3 +151,4 @@ const OS = getOS()
 
 [parseQueryString]:https://github.com/proYang/outils/blob/master/src/url/parseQueryString.js
 [stringfyQueryString]:https://github.com/proYang/outils/blob/master/src/url/stringfyQueryString.js
+
